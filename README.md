@@ -1,9 +1,6 @@
 # Get-ExcelWorkSheet
 This is a simple Powershell script to get an exel worksheet and convert it to a powershell array
 
-# SYNOPSIS
-This is a simple Powershell script to get an exel worksheet and convert it to a powershell array
-
 # DESCRIPTION
 The script will get an xlsx file from the parameters or open a file dialouge if none is provided.
 It will then get the worksheet from the parameters or prompt the user if none is provided.
