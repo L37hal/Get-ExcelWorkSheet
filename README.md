@@ -3,8 +3,12 @@
 
 # DESCRIPTION
 > The script will get an xlsx file from the parameters or open a file dialouge if none is provided.
+
 > It will then get the worksheet from the parameters or prompt the user if none is provided.
+
 > It will then get the header alignment from the parameters or prompt the user if none is provided.
+
+> It will then convert this worksheet into an array with the headers provided
 
 # EXAMPLE
 `./Get-ExcelWorkSheet.ps1`
@@ -15,6 +19,7 @@
 
 # NOTES
 > Author:   Leigh Butterworth
+
 > Version:  1.0
 
 # LINK
